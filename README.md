@@ -11,6 +11,8 @@
 
 4. npm install
 
+5. ng serve --open
+
 ### Backend
 1. Open another terminal(Powershell or CMD)
 
