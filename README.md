@@ -1,7 +1,7 @@
 
 # Project Management (MEAN Stack)
 
-## How to install dependencies
+## How to install dependencies(Windows)
 ### Frontend
 1. Open visual studio code
 
